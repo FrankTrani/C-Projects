@@ -3,7 +3,7 @@
 ## colorizer 
 simple bash script to print text using colors
 
-use: ''' echo "hello" | colorizer red```
+use: ```echo "hello" | colorizer red```
 
 ## quote.c
 simple random quote generator,
